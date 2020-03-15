@@ -1,0 +1,21 @@
+
+
+#create-quiz-form {
+	margin: 50px 0;
+}
+
+#create-quiz-btn {
+	text-align: center;
+    margin: 0 auto;
+    display: block;
+    margin-top: 50px;
+    font-size: 30px;
+}
+
+.create-quiz-btn {
+	margin: 0 auto;
+}
+
+.back-btn {
+	margin-bottom: 40px;
+}
