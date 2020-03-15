@@ -48,10 +48,11 @@ $(document).ready(function() {
             },
             success: function (data) {
                 console.log("success: ", data);
-                alert("New Quiz");
+                alert("Success! New Quiz Successfully Created!");
             },
             error: function (e) {
                 console.log("error: ", e);
+                alert("Error! ", e);
             }
         });
 
