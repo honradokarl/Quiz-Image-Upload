@@ -5,7 +5,7 @@ Simple quiz app that lets you create multiple questions with image attachments /
 - Written in Core PHP and MySQL and jQuery.
 
 Steps:
-1. git clone https://github.com/honradokarl/quiz_image_upload.git
+1. git clone git@github.com:honradokarl/Quiz-Image-Upload.git
 2. composer install and npm install.
 3. import database in the database folder.
 
