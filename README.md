@@ -1,6 +1,6 @@
-# quiz_image_upload
+# Quiz Images Upload
 
-Simple quiz app that lets you create question with image attachments / uploads per question.
+Simple quiz app that lets you create multiple questions with image attachments / uploads per question.
 
 - Written in Core PHP and MySQL and jQuery.
 
